@@ -1,0 +1,11 @@
+.gradle/
+build/
+app/build/
+local.properties
+gradle-8.13/
+gradle-9.5.0/
+gradle-8.13-bin.zip
+gradle-9.5.0-bin.zip
+*.apk
+*.aab
+error.txt
